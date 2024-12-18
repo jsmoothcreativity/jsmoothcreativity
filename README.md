@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm john Doe</h1>
-<h3 align="center">Dynamic Senior Developer with 7 years of experience in backend development, ERP integrations, and cloud infrastructure management. Currently pursuing a Master’s in Cybersecurity Intelligence, focusing on building secure, scalable, and high-performance systems. Adept at leading cross-functional teams, managing external developers, and transitioning legacy systems into modern architectures. Ready to deliver seamless solutions and drive innovation as a Full Stack Developer.</h3>
+<h1 align="right">Greetings 👋, I'm Jean Janvier</h1>
+<h3 align="right">Dynamic Senior Developer with 7 years of experience in backend development, ERP integrations, and cloud infrastructure management. Currently pursuing a Master’s in Cybersecurity Intelligence, focusing on building secure, scalable, and high-performance systems. Adept at leading cross-functional teams, managing external developers, and transitioning legacy systems into modern architectures. Ready to deliver seamless solutions and drive innovation as a Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubusername&label=Profile%20views&color=0e75b6&style=flat" alt="githubusername" /> </p>
 
